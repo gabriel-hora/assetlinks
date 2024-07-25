@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.waytaxi.com",
+    "sha256_cert_fingerprints":
+    ["17:9F:90:F4:8F:1E:70:04:29:A8:D7:BE:03:5F:22:0E:65:28:62:4E:41:DF:E0:2C:50:A6:E7:C0:4D:ED:F8:E1"]
+  }
+}]
